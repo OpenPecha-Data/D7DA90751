@@ -1,11 +1,11 @@
-id: 4462b29206e14e5197f08dd8580fca01
+id: 6b6518f4de084523a00b55344f970390
 annotation_type: index
 revision: '00001'
 annotations:
-  6f0af573704948f6ad73b5c082a01ebd:
+  c1b5687ba80a4ea99d6044d9811125c9:
     parts: {}
     span:
     - vol: 79
       start: 0
-      end: 342700
+      end: 343551
     work_id: D4090y
