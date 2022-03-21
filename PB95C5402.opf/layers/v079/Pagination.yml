@@ -847,891 +847,891 @@ annotations:
     reference: ''
     span:
       start: 159318
-      end: 160628
+      end: 160629
     note_ref: 184d832f8fec4cd595d586a4fa8030d3
   29a78e5a4b7f4219aca39813617013e6:
     imgnum: 821
     reference: ''
     span:
-      start: 160630
-      end: 161929
+      start: 160631
+      end: 161930
     note_ref: 184d832f8fec4cd595d586a4fa8030d3
   4abbd250f7ca4e8986412729e1442208:
     imgnum: 822
     reference: ''
     span:
-      start: 161931
-      end: 163180
+      start: 161932
+      end: 163181
     note_ref: 184d832f8fec4cd595d586a4fa8030d3
   d1bf57b2064d484a984035da60c43286:
     imgnum: 823
     reference: ''
     span:
-      start: 163182
-      end: 164479
+      start: 163183
+      end: 164477
     note_ref: 184d832f8fec4cd595d586a4fa8030d3
   b0483a0191ea4b099d906afc91845eeb:
     imgnum: 824
     reference: ''
     span:
-      start: 164481
-      end: 165839
+      start: 164479
+      end: 165837
     note_ref: 4bf41f936e89422a9601dbc6d181a8c7
   ab4d89d2316749f3830ae66532a584e9:
     imgnum: 825
     reference: ''
     span:
-      start: 165841
-      end: 167147
+      start: 165839
+      end: 167145
     note_ref: 4bf41f936e89422a9601dbc6d181a8c7
   ddda11a4a4dd4d6ba87f4ea43055f9bd:
     imgnum: 826
     reference: ''
     span:
-      start: 167149
-      end: 168415
+      start: 167147
+      end: 168413
     note_ref: 4bf41f936e89422a9601dbc6d181a8c7
   16e0f144522d41cf9ad3ab69e9254c89:
     imgnum: 827
     reference: ''
     span:
-      start: 168417
-      end: 169734
+      start: 168415
+      end: 169732
     note_ref: 4bf41f936e89422a9601dbc6d181a8c7
   de52e39a89564bd6bc21f9463ecc2734:
     imgnum: 828
     reference: ''
     span:
-      start: 169736
-      end: 171030
+      start: 169734
+      end: 171028
     note_ref: 4bf41f936e89422a9601dbc6d181a8c7
   335484d080fe4d2f948b1b204451f4bc:
     imgnum: 829
     reference: ''
     span:
-      start: 171032
-      end: 172312
+      start: 171030
+      end: 172310
     note_ref: 4bf41f936e89422a9601dbc6d181a8c7
   e706583456a64d329205eb2086bbcb1f:
     imgnum: 830
     reference: ''
     span:
-      start: 172314
-      end: 173574
+      start: 172312
+      end: 173572
     note_ref: 4bf41f936e89422a9601dbc6d181a8c7
   c9a30da17cc14bb5a0dfa4e00a7018ca:
     imgnum: 831
     reference: ''
     span:
-      start: 173576
-      end: 174859
+      start: 173574
+      end: 174857
     note_ref: 4bf41f936e89422a9601dbc6d181a8c7
   7424c90aa104484a92fa4679ef2972c2:
     imgnum: 832
     reference: ''
     span:
-      start: 174861
-      end: 176168
+      start: 174859
+      end: 176166
     note_ref: 4bf41f936e89422a9601dbc6d181a8c7
   3f1ebabca9fe40f9b60562cc3bfb3ec5:
     imgnum: 833
     reference: ''
     span:
-      start: 176170
-      end: 177535
+      start: 176168
+      end: 177533
     note_ref: 7e0f196c596f47f7aa12fb0bab886a1d
   e205c36564b8438aa3aefa7517c0d535:
     imgnum: 834
     reference: ''
     span:
-      start: 177537
-      end: 178866
+      start: 177535
+      end: 178864
     note_ref: 7e0f196c596f47f7aa12fb0bab886a1d
   41e37e6339034e02b144e388870ddf3a:
     imgnum: 835
     reference: ''
     span:
-      start: 178868
-      end: 180181
+      start: 178866
+      end: 180179
     note_ref: 7e0f196c596f47f7aa12fb0bab886a1d
   3ac191a26fe84b0c971bdd756697f832:
     imgnum: 836
     reference: ''
     span:
-      start: 180183
-      end: 181518
+      start: 180181
+      end: 181516
     note_ref: 7e0f196c596f47f7aa12fb0bab886a1d
   e03e00851aaf484eac8933f789ca1531:
     imgnum: 837
     reference: ''
     span:
-      start: 181520
-      end: 182781
+      start: 181518
+      end: 182779
     note_ref: 7e0f196c596f47f7aa12fb0bab886a1d
   4b073a0360c44c8283618a88cb1d4efe:
     imgnum: 838
     reference: ''
     span:
-      start: 182783
-      end: 184117
+      start: 182781
+      end: 184115
     note_ref: 7e0f196c596f47f7aa12fb0bab886a1d
   2302f8b3b8af44c4b6912ad033b97506:
     imgnum: 839
     reference: ''
     span:
-      start: 184119
-      end: 185415
+      start: 184117
+      end: 185413
     note_ref: 7e0f196c596f47f7aa12fb0bab886a1d
   f41fbaaaf02147a5b3fb4b60ade40f26:
     imgnum: 840
     reference: ''
     span:
-      start: 185417
-      end: 186733
+      start: 185415
+      end: 186731
     note_ref: 7e0f196c596f47f7aa12fb0bab886a1d
   663d210127f64c81893bc0cc6065a921:
     imgnum: 841
     reference: ''
     span:
-      start: 186735
-      end: 187991
+      start: 186733
+      end: 187989
     note_ref: 7e0f196c596f47f7aa12fb0bab886a1d
   2f07e83431ff4991817d667805f2cf1f:
     imgnum: 842
     reference: ''
     span:
-      start: 187993
-      end: 189293
+      start: 187991
+      end: 189291
     note_ref: f980d8fd91bc46099dcc02efe58a51c7
   6ca0e7cebc1e4e90a524c7077c0e69a2:
     imgnum: 843
     reference: ''
     span:
-      start: 189295
-      end: 190599
+      start: 189293
+      end: 190597
     note_ref: f980d8fd91bc46099dcc02efe58a51c7
   8c1ebbb730c8498d8fafa0db2a84ba0d:
     imgnum: 844
     reference: ''
     span:
-      start: 190601
-      end: 191916
+      start: 190599
+      end: 191914
     note_ref: f980d8fd91bc46099dcc02efe58a51c7
   b49213fba6c5494bb2f04ad1d34ab479:
     imgnum: 845
     reference: ''
     span:
-      start: 191918
-      end: 193214
+      start: 191916
+      end: 193212
     note_ref: f980d8fd91bc46099dcc02efe58a51c7
   5e2c5d79990d46d1841bd96da0f2e754:
     imgnum: 846
     reference: ''
     span:
-      start: 193216
-      end: 194537
+      start: 193214
+      end: 194535
     note_ref: f980d8fd91bc46099dcc02efe58a51c7
   ce5b5394a15144b7bda435002fcb5692:
     imgnum: 847
     reference: ''
     span:
-      start: 194539
-      end: 195887
+      start: 194537
+      end: 195885
     note_ref: f980d8fd91bc46099dcc02efe58a51c7
   0d6c4b1522e84d78ad430576eef3bcd5:
     imgnum: 848
     reference: ''
     span:
-      start: 195889
-      end: 197226
+      start: 195887
+      end: 197224
     note_ref: f980d8fd91bc46099dcc02efe58a51c7
   19cffac57bd24f9db34a649a96d4e358:
     imgnum: 849
     reference: ''
     span:
-      start: 197228
-      end: 198608
+      start: 197226
+      end: 198606
     note_ref: f980d8fd91bc46099dcc02efe58a51c7
   1a92565692954ad1a093b0c616ce9172:
     imgnum: 850
     reference: ''
     span:
-      start: 198610
-      end: 199945
+      start: 198608
+      end: 199943
     note_ref: b7722b4e54bd4d8daffb734aaccef31d
   a089279d68664f9eb3cad4ffaffb25ad:
     imgnum: 851
     reference: ''
     span:
-      start: 199947
-      end: 201286
+      start: 199945
+      end: 201284
     note_ref: b7722b4e54bd4d8daffb734aaccef31d
   e5339f4cdef24a2584b6dcd130955705:
     imgnum: 852
     reference: ''
     span:
-      start: 201288
-      end: 202655
+      start: 201286
+      end: 202653
     note_ref: b7722b4e54bd4d8daffb734aaccef31d
   8b17c88d1cf1441da283e3f8678545fb:
     imgnum: 853
     reference: ''
     span:
-      start: 202657
-      end: 203989
+      start: 202655
+      end: 203987
     note_ref: b7722b4e54bd4d8daffb734aaccef31d
   cd9f2c7474fc46748f7479ac4b90fcd1:
     imgnum: 854
     reference: ''
     span:
-      start: 203991
-      end: 205337
+      start: 203989
+      end: 205335
     note_ref: b7722b4e54bd4d8daffb734aaccef31d
   657d530f85044253a0e0d9a60e51f858:
     imgnum: 855
     reference: ''
     span:
-      start: 205339
-      end: 206567
+      start: 205337
+      end: 206565
     note_ref: b7722b4e54bd4d8daffb734aaccef31d
   7c1f7c9be680433790cb812da8761e68:
     imgnum: 856
     reference: ''
     span:
-      start: 206569
-      end: 207921
+      start: 206567
+      end: 207919
     note_ref: b7722b4e54bd4d8daffb734aaccef31d
   e7f6491c21044e4486961335baa34177:
     imgnum: 857
     reference: ''
     span:
-      start: 207923
-      end: 209235
+      start: 207921
+      end: 209233
     note_ref: b7722b4e54bd4d8daffb734aaccef31d
   9c4551c33b6f4fbbba316ffd84db1d55:
     imgnum: 858
     reference: ''
     span:
-      start: 209237
-      end: 210553
+      start: 209235
+      end: 210551
     note_ref: b7722b4e54bd4d8daffb734aaccef31d
   386673e24edf4a529183c96334f2e899:
     imgnum: 859
     reference: ''
     span:
-      start: 210555
-      end: 211885
+      start: 210553
+      end: 211883
     note_ref: b7722b4e54bd4d8daffb734aaccef31d
   0d5caa96f6c34142a33046cc33ff02be:
     imgnum: 860
     reference: ''
     span:
-      start: 211887
-      end: 213170
+      start: 211885
+      end: 213168
     note_ref: 42e2685a255c4f3f93dc1e3cdc0fdb38
   d6d8174c02314068bcc740f940d7cc59:
     imgnum: 861
     reference: ''
     span:
-      start: 213172
-      end: 214441
+      start: 213170
+      end: 214439
     note_ref: 42e2685a255c4f3f93dc1e3cdc0fdb38
   e9bfffec0ea5470fbe5d12b743be7364:
     imgnum: 862
     reference: ''
     span:
-      start: 214443
-      end: 215740
+      start: 214441
+      end: 215738
     note_ref: 42e2685a255c4f3f93dc1e3cdc0fdb38
   d90fa86aa45e4329bb9d620015ed8336:
     imgnum: 863
     reference: ''
     span:
-      start: 215742
-      end: 217058
+      start: 215740
+      end: 217056
     note_ref: 42e2685a255c4f3f93dc1e3cdc0fdb38
   9b05e930b7c94fc1947a7caa1079a8db:
     imgnum: 864
     reference: ''
     span:
-      start: 217060
-      end: 218291
+      start: 217058
+      end: 218289
     note_ref: 42e2685a255c4f3f93dc1e3cdc0fdb38
   4c644054ecde4df7a34f2b9b1af7301f:
     imgnum: 865
     reference: ''
     span:
-      start: 218293
-      end: 219574
+      start: 218291
+      end: 219572
     note_ref: 42e2685a255c4f3f93dc1e3cdc0fdb38
   f3d388a64d7d4a0aaa311aa4fe8967a9:
     imgnum: 866
     reference: ''
     span:
-      start: 219576
-      end: 220899
+      start: 219574
+      end: 220897
     note_ref: 42e2685a255c4f3f93dc1e3cdc0fdb38
   ee725e3367d046d2b5fdaa6b404e0d41:
     imgnum: 867
     reference: ''
     span:
-      start: 220901
-      end: 222263
+      start: 220899
+      end: 222261
     note_ref: 42e2685a255c4f3f93dc1e3cdc0fdb38
   1515b5c7665d4eec84e49ba49e7c8bb6:
     imgnum: 868
     reference: ''
     span:
-      start: 222265
-      end: 223579
+      start: 222263
+      end: 223577
     note_ref: 42e2685a255c4f3f93dc1e3cdc0fdb38
   a336a6f7dd094f5db3dece019ebeaea2:
     imgnum: 869
     reference: ''
     span:
-      start: 223581
-      end: 224876
+      start: 223579
+      end: 224874
     note_ref: 42e2685a255c4f3f93dc1e3cdc0fdb38
   f556d9b585c6409aacbe051aea617089:
     imgnum: 870
     reference: ''
     span:
-      start: 224878
-      end: 226173
+      start: 224876
+      end: 226171
     note_ref: 42e2685a255c4f3f93dc1e3cdc0fdb38
   9c81a411b999496ca7138cf705fa3e30:
     imgnum: 871
     reference: ''
     span:
-      start: 226175
-      end: 227475
+      start: 226173
+      end: 227473
     note_ref: c5fcd2c4fdcd4e10b4fd0ebc5a492454
   cedda537a0f248e4a3ab9e852933fdc5:
     imgnum: 872
     reference: ''
     span:
-      start: 227477
-      end: 228723
+      start: 227475
+      end: 228721
     note_ref: c5fcd2c4fdcd4e10b4fd0ebc5a492454
   9b63f856f1084ce29208399af196298a:
     imgnum: 873
     reference: ''
     span:
-      start: 228725
-      end: 230006
+      start: 228723
+      end: 230004
     note_ref: c5fcd2c4fdcd4e10b4fd0ebc5a492454
   a2a64cf1f96145baae3869b1fba041cf:
     imgnum: 874
     reference: ''
     span:
-      start: 230008
-      end: 231311
+      start: 230006
+      end: 231309
     note_ref: c5fcd2c4fdcd4e10b4fd0ebc5a492454
   2416493c4c2d427184927e80efca1c48:
     imgnum: 875
     reference: ''
     span:
-      start: 231313
-      end: 232624
+      start: 231311
+      end: 232622
     note_ref: c5fcd2c4fdcd4e10b4fd0ebc5a492454
   28a1bbc0f9a140ff824741163b2ada98:
     imgnum: 876
     reference: ''
     span:
-      start: 232626
-      end: 233915
+      start: 232624
+      end: 233913
     note_ref: c5fcd2c4fdcd4e10b4fd0ebc5a492454
   a29588d1ccb84ad6b08c8fe3d86f82a7:
     imgnum: 877
     reference: ''
     span:
-      start: 233917
-      end: 235217
+      start: 233915
+      end: 235215
     note_ref: c5fcd2c4fdcd4e10b4fd0ebc5a492454
   03867bfc21c74a20b5b27383a472306d:
     imgnum: 878
     reference: ''
     span:
-      start: 235219
-      end: 236531
+      start: 235217
+      end: 236529
     note_ref: c5fcd2c4fdcd4e10b4fd0ebc5a492454
   396fc198b3614537a221e956d64c1ff6:
     imgnum: 879
     reference: ''
     span:
-      start: 236533
-      end: 237849
+      start: 236531
+      end: 237847
     note_ref: c5fcd2c4fdcd4e10b4fd0ebc5a492454
   6dfa685a5b4c4ef592565d86c6dce697:
     imgnum: 880
     reference: ''
     span:
-      start: 237851
-      end: 239113
+      start: 237849
+      end: 239111
     note_ref: c5fcd2c4fdcd4e10b4fd0ebc5a492454
   be5e4c5bb36346eaa2eff9ff08fb4ce8:
     imgnum: 881
     reference: ''
     span:
-      start: 239115
-      end: 240383
+      start: 239113
+      end: 240381
     note_ref: c5fcd2c4fdcd4e10b4fd0ebc5a492454
   6817a25fb4b1473ba1cf4039587c8305:
     imgnum: 882
     reference: ''
     span:
-      start: 240385
-      end: 241703
+      start: 240383
+      end: 241701
     note_ref: 56776296f1fd4cc8a298403357826d92
   d282edbea3e24dd5b93c70f40e8bc50c:
     imgnum: 883
     reference: ''
     span:
-      start: 241705
-      end: 243009
+      start: 241703
+      end: 243007
     note_ref: 56776296f1fd4cc8a298403357826d92
   25eded89b22843f8a671a6ab069539c7:
     imgnum: 884
     reference: ''
     span:
-      start: 243011
-      end: 244312
+      start: 243009
+      end: 244310
     note_ref: 56776296f1fd4cc8a298403357826d92
   a2d3d078e6704c1ea6ed896fa1f256b6:
     imgnum: 885
     reference: ''
     span:
-      start: 244314
-      end: 245640
+      start: 244312
+      end: 245638
     note_ref: 56776296f1fd4cc8a298403357826d92
   5f8f7a4d55a847468b60685c5ea9b801:
     imgnum: 886
     reference: ''
     span:
-      start: 245642
-      end: 246942
+      start: 245640
+      end: 246940
     note_ref: 56776296f1fd4cc8a298403357826d92
   fa78359372db4d11bbbee8ab60e22dac:
     imgnum: 887
     reference: ''
     span:
-      start: 246944
-      end: 248285
+      start: 246942
+      end: 248283
     note_ref: 56776296f1fd4cc8a298403357826d92
   540face70a26418b9ef6904b54ac046f:
     imgnum: 888
     reference: ''
     span:
-      start: 248287
-      end: 249615
+      start: 248285
+      end: 249613
     note_ref: 56776296f1fd4cc8a298403357826d92
   ba79c8a3d7554cc4982137ba8d59b4ae:
     imgnum: 889
     reference: ''
     span:
-      start: 249617
-      end: 250918
+      start: 249615
+      end: 250916
     note_ref: 56776296f1fd4cc8a298403357826d92
   05863ef055fe41009623766b4afc2082:
     imgnum: 890
     reference: ''
     span:
-      start: 250920
-      end: 252230
+      start: 250918
+      end: 252228
     note_ref: 56776296f1fd4cc8a298403357826d92
   9a7a70deb00e4cf4ba8018e0b14f1ef2:
     imgnum: 891
     reference: ''
     span:
-      start: 252232
-      end: 253566
+      start: 252230
+      end: 253564
     note_ref: 56776296f1fd4cc8a298403357826d92
   9b203fc245bb41009fdd9281bd1c2bd2:
     imgnum: 892
     reference: ''
     span:
-      start: 253568
-      end: 254884
+      start: 253566
+      end: 254882
     note_ref: 56776296f1fd4cc8a298403357826d92
   468db3bb9b3b4299aaf81f34f01e071d:
     imgnum: 893
     reference: ''
     span:
-      start: 254886
-      end: 256201
+      start: 254884
+      end: 256199
     note_ref: 56776296f1fd4cc8a298403357826d92
   a84f45a08c784bf180cef6d819621daf:
     imgnum: 894
     reference: ''
     span:
-      start: 256203
-      end: 257544
+      start: 256201
+      end: 257542
     note_ref: 56776296f1fd4cc8a298403357826d92
   2de595e728b142e4a386e7bd1c203a0b:
     imgnum: 895
     reference: ''
     span:
-      start: 257546
-      end: 258771
+      start: 257544
+      end: 258769
     note_ref: 56776296f1fd4cc8a298403357826d92
   e6a9fe39e1af44b48859b12736f336a5:
     imgnum: 896
     reference: ''
     span:
-      start: 258773
-      end: 260117
+      start: 258771
+      end: 260115
     note_ref: 56776296f1fd4cc8a298403357826d92
   c29a38d4713e4466aefc1bff03a296ab:
     imgnum: 897
     reference: ''
     span:
-      start: 260119
-      end: 261458
+      start: 260117
+      end: 261456
     note_ref: f5df9541ed3348a3b20b305cf5589f3e
   a588b44dd7274cdfbdff351ae1981ba7:
     imgnum: 898
     reference: ''
     span:
-      start: 261460
-      end: 262843
+      start: 261458
+      end: 262841
     note_ref: f5df9541ed3348a3b20b305cf5589f3e
   460deb0b272444f7b72590284c4adfb0:
     imgnum: 899
     reference: ''
     span:
-      start: 262845
-      end: 264158
+      start: 262843
+      end: 264156
     note_ref: f5df9541ed3348a3b20b305cf5589f3e
   87de6491e3aa4c56bf9132625b5be501:
     imgnum: 900
     reference: ''
     span:
-      start: 264160
-      end: 265496
+      start: 264158
+      end: 265494
     note_ref: f5df9541ed3348a3b20b305cf5589f3e
   cac91432844f4e37ae0e6a0950a2d545:
     imgnum: 901
     reference: ''
     span:
-      start: 265498
-      end: 266799
+      start: 265496
+      end: 266797
     note_ref: f5df9541ed3348a3b20b305cf5589f3e
   e199643eb1b049dab53795c8828ea2e6:
     imgnum: 902
     reference: ''
     span:
-      start: 266801
-      end: 268119
+      start: 266799
+      end: 268117
     note_ref: f5df9541ed3348a3b20b305cf5589f3e
   ccdc9cad70c540608876105f627bcb28:
     imgnum: 903
     reference: ''
     span:
-      start: 268121
-      end: 269463
+      start: 268119
+      end: 269461
     note_ref: f5df9541ed3348a3b20b305cf5589f3e
   1940912564ba49b6a22078735019316f:
     imgnum: 904
     reference: ''
     span:
-      start: 269465
-      end: 270768
+      start: 269463
+      end: 270766
     note_ref: f5df9541ed3348a3b20b305cf5589f3e
   9edee4d665424203a8f53a5bbd665996:
     imgnum: 905
     reference: ''
     span:
-      start: 270770
-      end: 272114
+      start: 270768
+      end: 272112
     note_ref: f5df9541ed3348a3b20b305cf5589f3e
   d4f5e934eec042aa8306934f73c3c3b6:
     imgnum: 906
     reference: ''
     span:
-      start: 272116
-      end: 273415
+      start: 272114
+      end: 273413
     note_ref: f5df9541ed3348a3b20b305cf5589f3e
   c05362fbfacf4be9bdf845e57463f8a4:
     imgnum: 907
     reference: ''
     span:
-      start: 273417
-      end: 274764
+      start: 273415
+      end: 274762
     note_ref: f5df9541ed3348a3b20b305cf5589f3e
   06722ec3e0ba485ba1b4bc8e6debb9bb:
     imgnum: 908
     reference: ''
     span:
-      start: 274766
-      end: 276120
+      start: 274764
+      end: 276118
     note_ref: f5df9541ed3348a3b20b305cf5589f3e
   4f6473a1588a4ea792791a9c4be99698:
     imgnum: 909
     reference: ''
     span:
-      start: 276122
-      end: 277475
+      start: 276120
+      end: 277473
     note_ref: f5df9541ed3348a3b20b305cf5589f3e
   be0fa52e6b5846228ff5d095a92eb402:
     imgnum: 910
     reference: ''
     span:
-      start: 277477
-      end: 278848
+      start: 277475
+      end: 278846
     note_ref: f5df9541ed3348a3b20b305cf5589f3e
   6de3cd1964174156aa274bdc25cde3d3:
     imgnum: 911
     reference: ''
     span:
-      start: 278850
-      end: 280170
+      start: 278848
+      end: 280168
     note_ref: fe18de5e0dd343b29c5fba90dc1cae3e
   94b1b7540a044563b35b7684a839c139:
     imgnum: 912
     reference: ''
     span:
-      start: 280172
-      end: 281507
+      start: 280170
+      end: 281505
     note_ref: fe18de5e0dd343b29c5fba90dc1cae3e
   3211dbd872d845ddbcfba8b238f667bf:
     imgnum: 913
     reference: ''
     span:
-      start: 281509
-      end: 282856
+      start: 281507
+      end: 282854
     note_ref: fe18de5e0dd343b29c5fba90dc1cae3e
   c9350a873b874dacba2355a6bfd6d133:
     imgnum: 914
     reference: ''
     span:
-      start: 282858
-      end: 284197
+      start: 282856
+      end: 284195
     note_ref: fe18de5e0dd343b29c5fba90dc1cae3e
   347dedd4e8a8405782301a93373e6640:
     imgnum: 915
     reference: ''
     span:
-      start: 284199
-      end: 285532
+      start: 284197
+      end: 285530
     note_ref: fe18de5e0dd343b29c5fba90dc1cae3e
   2b8240b61aec434e8610e09b3da85169:
     imgnum: 916
     reference: ''
     span:
-      start: 285534
-      end: 286861
+      start: 285532
+      end: 286859
     note_ref: fe18de5e0dd343b29c5fba90dc1cae3e
   1c1ff1bbdaad45c9817410807d0abb1d:
     imgnum: 917
     reference: ''
     span:
-      start: 286863
-      end: 288236
+      start: 286861
+      end: 288234
     note_ref: fe18de5e0dd343b29c5fba90dc1cae3e
   1740a8436dcc404780d8e590afa78701:
     imgnum: 918
     reference: ''
     span:
-      start: 288238
-      end: 289642
+      start: 288236
+      end: 289640
     note_ref: fe18de5e0dd343b29c5fba90dc1cae3e
   516c2bcf75844b258a0a359a1d9de5eb:
     imgnum: 919
     reference: ''
     span:
-      start: 289644
-      end: 291080
+      start: 289642
+      end: 291078
     note_ref: fe18de5e0dd343b29c5fba90dc1cae3e
   c230c2fee65845f29e4ce4b7bc3499b4:
     imgnum: 920
     reference: ''
     span:
-      start: 291082
-      end: 292481
+      start: 291080
+      end: 292479
     note_ref: fe18de5e0dd343b29c5fba90dc1cae3e
   bdf8d72c0a734febb80b2c459acc6ebb:
     imgnum: 921
     reference: ''
     span:
-      start: 292483
-      end: 293851
+      start: 292481
+      end: 293849
     note_ref: a8d941172490425182ae2071d4248b20
   ff3676a33b764556871e4f279d1861e1:
     imgnum: 922
     reference: ''
     span:
-      start: 293853
-      end: 295232
+      start: 293851
+      end: 295230
     note_ref: a8d941172490425182ae2071d4248b20
   e75fd7b6f2c54249bb32e72eda7c0191:
     imgnum: 923
     reference: ''
     span:
-      start: 295234
-      end: 296615
+      start: 295232
+      end: 296613
     note_ref: a8d941172490425182ae2071d4248b20
   8f18da6b9b134df8b04836e0f4f10081:
     imgnum: 924
     reference: ''
     span:
-      start: 296617
-      end: 297945
+      start: 296615
+      end: 297943
     note_ref: a8d941172490425182ae2071d4248b20
   5fe8bcfab63945bd9335ddaa12f970cc:
     imgnum: 925
     reference: ''
     span:
-      start: 297947
-      end: 299318
+      start: 297945
+      end: 299316
     note_ref: a8d941172490425182ae2071d4248b20
   65be487f54cf4729b736d9ead8e1061f:
     imgnum: 926
     reference: ''
     span:
-      start: 299320
-      end: 300697
+      start: 299318
+      end: 300695
     note_ref: a8d941172490425182ae2071d4248b20
   4cb4022ac7ad4328884260c676a4fecb:
     imgnum: 927
     reference: ''
     span:
-      start: 300699
-      end: 302057
+      start: 300697
+      end: 302055
     note_ref: a8d941172490425182ae2071d4248b20
   f2172b6a2aa5439f928ea3b90e30c054:
     imgnum: 928
     reference: ''
     span:
-      start: 302059
-      end: 303472
+      start: 302057
+      end: 303470
     note_ref: a8d941172490425182ae2071d4248b20
   bc982835a1d143019380438ef9387d94:
     imgnum: 929
     reference: ''
     span:
-      start: 303474
-      end: 304480
+      start: 303472
+      end: 304478
     note_ref: a8d941172490425182ae2071d4248b20
   ab31f68527ab49f391127ac838826f6c:
     imgnum: 930
     reference: ''
     span:
-      start: 304482
-      end: 307458
+      start: 304480
+      end: 307456
   f6ef8308291f43089370679e3107bdfb:
     imgnum: 931
     reference: ''
     span:
-      start: 307460
-      end: 309216
+      start: 307458
+      end: 309214
   a2a055ed6df1477fa544d5ec01a2475e:
     imgnum: 932
     reference: ''
     span:
-      start: 309218
-      end: 311023
+      start: 309216
+      end: 311021
   bf1b98eb58b44ef8b46d5dd15522558a:
     imgnum: 933
     reference: ''
     span:
-      start: 311025
-      end: 312977
+      start: 311023
+      end: 312975
   05ee2f80c3a049308489cda393190cff:
     imgnum: 934
     reference: ''
     span:
-      start: 312979
-      end: 314844
+      start: 312977
+      end: 314842
   89f97d436009484980a8da15eb4016d2:
     imgnum: 935
     reference: ''
     span:
-      start: 314846
-      end: 316722
+      start: 314844
+      end: 316720
   bb02c001bc724724859c069b2b955f76:
     imgnum: 936
     reference: ''
     span:
-      start: 316724
-      end: 318620
+      start: 316722
+      end: 318618
   6ce658c943cf4d28a0b70cb69edcc992:
     imgnum: 937
     reference: ''
     span:
-      start: 318622
-      end: 320659
+      start: 318620
+      end: 320657
   9e02be56291b46049eb9a4e4fda8ba08:
     imgnum: 938
     reference: ''
     span:
-      start: 320661
-      end: 322608
+      start: 320659
+      end: 322606
   184d832f8fec4cd595d586a4fa8030d3:
     imgnum: 939
     reference: ''
     span:
-      start: 322610
-      end: 324486
+      start: 322608
+      end: 324484
   4bf41f936e89422a9601dbc6d181a8c7:
     imgnum: 940
     reference: ''
     span:
-      start: 324488
-      end: 326568
+      start: 324486
+      end: 326566
   7e0f196c596f47f7aa12fb0bab886a1d:
     imgnum: 941
     reference: ''
     span:
-      start: 326570
-      end: 328523
+      start: 326568
+      end: 328521
   f980d8fd91bc46099dcc02efe58a51c7:
     imgnum: 942
     reference: ''
     span:
-      start: 328525
-      end: 330440
+      start: 328523
+      end: 330438
   b7722b4e54bd4d8daffb734aaccef31d:
     imgnum: 943
     reference: ''
     span:
-      start: 330442
-      end: 332444
+      start: 330440
+      end: 332442
   42e2685a255c4f3f93dc1e3cdc0fdb38:
     imgnum: 944
     reference: ''
     span:
-      start: 332446
-      end: 334308
+      start: 332444
+      end: 334306
   c5fcd2c4fdcd4e10b4fd0ebc5a492454:
     imgnum: 945
     reference: ''
     span:
-      start: 334310
-      end: 336151
+      start: 334308
+      end: 336149
   56776296f1fd4cc8a298403357826d92:
     imgnum: 946
     reference: ''
     span:
-      start: 336153
-      end: 338090
+      start: 336151
+      end: 338088
   f5df9541ed3348a3b20b305cf5589f3e:
     imgnum: 947
     reference: ''
     span:
-      start: 338092
-      end: 340008
+      start: 338090
+      end: 340006
   fe18de5e0dd343b29c5fba90dc1cae3e:
     imgnum: 948
     reference: ''
     span:
-      start: 340010
-      end: 341867
+      start: 340008
+      end: 341865
   a8d941172490425182ae2071d4248b20:
     imgnum: 949
     reference: ''
     span:
-      start: 341869
-      end: 343074
+      start: 341867
+      end: 343072
 local_ids:
   ce29f1d27962413ea1e13c3909704d6d: 200000
   c5638b5ce935475bae6d0263e3b8b747: 200001
